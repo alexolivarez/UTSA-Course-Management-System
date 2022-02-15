@@ -5,5 +5,6 @@ Its inputs let you create courses, read courses, update courses, and delete cour
 How to run:
   1. make.
   2. run assign5.c using gcc.
+ 
 Optional:
-  1. pipe input file into program to see outputs, or run like normal to try by yourself.
+  - pipe input file into program to see outputs, or run like normal to try by yourself.
